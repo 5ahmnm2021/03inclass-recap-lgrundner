@@ -193,7 +193,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Press Space to Change Color
+  m_Text: 'Press Space to Change Color
+
+
+
+    hahahha'
 --- !u!222 &32553543
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -310,7 +314,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -88.6, y: -54}
+  m_AnchoredPosition: {x: -88.599976, y: -54}
   m_SizeDelta: {x: -580.89954, y: -320}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &289290741
@@ -836,7 +840,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 236, y: -92.2}
+  m_AnchoredPosition: {x: 236, y: -92.20001}
   m_SizeDelta: {x: -710, y: -390}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2137541556
