@@ -11,9 +11,9 @@ Target platform:
 WebGL refRes (960x600)
 
 Visuals: /
+
+
 Necessary setup/execution steps: /
-
-
 
 Third party material: /
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
