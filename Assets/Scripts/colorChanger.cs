@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class colorChanger : MonoBehaviour
 {
-    public GameObject color;
+    public Image ColorField; 
 
     public void ChangeColor()
     {
@@ -19,7 +19,7 @@ public class colorChanger : MonoBehaviour
 
         if (Input.GetKeyDown("space"))
         {
-            color.GetComponent<Image>().color = colors[Random.Range(0, colors.Length)];
+            ColorField.color = colors[Random.Range(0, colors.Length)];
         }
     }
 
